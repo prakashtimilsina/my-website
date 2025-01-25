@@ -1,7 +1,7 @@
 
 # Setup Guide for Advanced Features using Jekyll, GitHub Actions, and Django
 
-This guide will help you set up advanced features like **Jekyll**, **GitHub Actions**, and **Django** on your **MacBook**. It will include step-by-step instructions and tips to integrate these technologies with your GitHub repository.
+This guide will help you set up advanced features like **Jekyll**, **GitHub Actions**, and **Django** using **MacBook**. It will include step-by-step instructions and tips to integrate these technologies with your GitHub repository.
 
 ---
 
